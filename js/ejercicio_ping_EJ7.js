@@ -12,10 +12,10 @@ while (i < 1) {
                 console.log('PING PONG')
             }
             else if (a%5 == 0) {
-                console.log('PONG')
+                console.log('PONG ')
             }
             else if (a%3 == 0) {
-                console.log('PING')
+                console.log('PING ')
             }
         }
     }
